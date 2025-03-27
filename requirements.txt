@@ -1,0 +1,8 @@
+# Mathmetics tool
+numpy
+matplotlib
+torch
+
+# Util
+tqdm
+pyyaml
