@@ -2,6 +2,8 @@
 numpy
 matplotlib
 torch
+scikit-learn
+seaborn
 
 # Util
 tqdm
